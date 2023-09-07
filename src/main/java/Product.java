@@ -1,5 +1,10 @@
- class Product {
+public class Product {
+    String name;
+            float cost;
+    Product(){
+        this.name = name;
+        this.cost = cost;
+    }
 
-    String name = "лук";
-    float cost = 14.55f;
+
 }
